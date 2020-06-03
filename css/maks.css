@@ -55,7 +55,7 @@ hr{
 }
 .first-web{
     text-decoration: none;
-    color:#f4eeff ;
+    color:#ffffff ;
     font-family: 'Charmonman', cursive;
     font-weight: bold;
 
@@ -126,9 +126,13 @@ hr{
 /*second container*/
 .dehing {
     text-decoration: none;
+    width: fit-content;
+    font-size: 5rem;
 }
 .dehing :hover {
-    color: #eaf6f6;
+    background: linear-gradient(to left, rgb(49, 184, 60), rgb(96, 88, 206) );
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
 }
 .profile-pic{
     margin-bottom: 20px;
