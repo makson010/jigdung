@@ -1,0 +1,22 @@
+/*Cascading style sheet, styling the html creation-->*/
+<style>
+    body {
+        background-color:#f3e9ba;
+        }
+    hr {
+        border-style:none;
+        border-top-style:dotted;
+        border-color: rgb(174, 166, 189);
+        border-width: 5px;
+        width: 10%;
+        }
+/*don't forget the # when putting hex number in color  */
+    h1{
+        color:#46bb42;
+    }
+    h3{
+        color:#46bb42;
+    }
+
+</style>
+
